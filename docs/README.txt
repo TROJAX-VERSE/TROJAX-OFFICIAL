@@ -1,0 +1,1 @@
+This folder is for whitepapers and developer kits (PDF).
